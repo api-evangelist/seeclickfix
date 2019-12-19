@@ -1,0 +1,86 @@
+{
+    "name": "SeeClickFIx",
+    "description": "Officials and neighbors have come together on SeeClickFix to resolve millions of issues. Let's get to work!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/470-seeclickfix.jpg",
+    "tags": [
+        "civic",
+        "have api",
+        "issues",
+        "open311"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/seeclickfix\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SeeClickFIx",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/470-seeclickfix.jpg",
+            "humanURL": "http:\/\/en.seeclickfix.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/seeclickfix-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/seeclickfix.com\/open311"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/seeclickfix.blogspot.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/seeclickfix.blogspot.com\/feeds\/posts\/default?alt=rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/seeclickfix"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/seeclickfix"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/dev.seeclickfix.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "press@seeclickfix.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@seeclickfix.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@seeclickfix.com"
+        },
+        {
+            "type": "Email",
+            "url": "contact@seeclickfix.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/SeeClickFix"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/seeclickfix"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/en.seeclickfix.com\/"
+        }
+    ]
+}
